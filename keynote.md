@@ -37,5 +37,5 @@ David Singleton, Head of Product and Engineering
 - Web 2.0, but we have 1.0 purchase experiences
 - Top 72/100 commerce sites have errors in their checkout flow
 - They launched Stripe elements last year.
-
+- New Stripe checkout, considering Europe's new SCA regulatory requirements
 
