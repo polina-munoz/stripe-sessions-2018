@@ -1,4 +1,4 @@
-# stripes-sessions-2018
+# stripe-sessions-2018
 
 Stripe Publishing offering the following copies on site:
 
