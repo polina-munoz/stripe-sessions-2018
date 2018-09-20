@@ -40,6 +40,7 @@ New interesting features:
 - Top 72/100 commerce sites have errors in their checkout flow
 - They launched Stripe elements last year.
 - New Stripe checkout, considering Europe's new SCA regulatory requirements
+  - Read me: https://stripe.com/guides/strong-customer-authentication
 - New Stripe Terminal, provide more unified global coverage for in store payments, demo with Stripe Press
 - Stripe Issuing: programmatically control how money is spent. Granular control with programmatic spending limits.
   - Technology, Regulatory, Contractual, Ecosystem (opaque system among banks, processors)
