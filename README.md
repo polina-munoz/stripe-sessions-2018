@@ -1,6 +1,6 @@
 # stripes-sessions-2018
 
-Stripe Publishing offering the following copies:
+Stripe Publishing offering the following copies on site:
 
 - https://press.stripe.com/
 - High Growth Handbook by https://twitter.com/eladgil
