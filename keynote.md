@@ -6,6 +6,11 @@
 
 ## Stripe 2018 year in review
 
+Mission: grow the GDP of the internet.
+
+Strategy: help technology companies of every size build better businesses. Stripe wants
+to support small startups.
+
 - 100,000+ businesses on Stripe, now 1M+
 - 84% of american adults used Stripe
 - 200 million API requests per day: we can't run everything through an eventually consistent caching layer
@@ -13,7 +18,8 @@
 - security and privacy infrastructure
 - industry leading availability
 - 1,300 people
-- 4 global feature/eng hubs: SF, Seattle, Singapore, Dublin
+- 1 product HQ is going to turn into 4 global product/eng hubs: SF, Seattle, Singapore, Dublin
+- They want to build their product physically close to markets they want to focus on.
 
 New interesting features:
 
