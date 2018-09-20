@@ -1,5 +1,11 @@
 # stripes-sessions-2018
 
+Stripe Publishing offering the following copies:
+
+- https://press.stripe.com/
+- High Growth Handbook by https://twitter.com/eladgil
+- Dream Machine
+
 Sessions covered:
 
 - 10:00 AM - 11:00 AM, Keynote
