@@ -66,7 +66,15 @@ New interesting features:
   - Stripe Radar has blocked 4 Billion in fraud
   - There's a 90% chance Stripe has seen the credit card before
   - Early Stripe was well known for the quality of its support
-  - 
+- Dan Chadre, Mindbody
+  - A fitness apps company that realized it should be a payments company
+  - 19 areas in the application that take payment, expanding ot Singapore
+  - Ability to have a single point of integration has just never existed
+  - "omnichannel commerce experience"
+  - Make payments the experience, not something we have to do as a side effect
+  
+  
+  
 
 
 
