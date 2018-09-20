@@ -12,6 +12,8 @@
 - they forked ruby bc they want to offer type checking
 - security and privacy infrastructure
 - industry leading availability
+- 1,300 people
+- 4 global feature/eng hubs: SF, Seattle, Singapore, Dublin
 
 New interesting features:
 
