@@ -63,6 +63,13 @@ Patterns to role out new changes quickly
   - 4 week project, 3-5 engineers with dedicated mentor
   - full development cycle from design to deploy
   - build a community with your cohort
+  - mentors got to be product managers and transferrable skills
+- problems with this program:
+  - mentors needed at least a year of tenure of stripe 
+  - needed to be able to coach and guide people
+  - this approach isn't scalable
+  - sourcing the appropriate projects became difficult, consistency is hard
+  
 
 
 
