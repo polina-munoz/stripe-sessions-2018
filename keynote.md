@@ -38,4 +38,6 @@ New interesting features:
 - Top 72/100 commerce sites have errors in their checkout flow
 - They launched Stripe elements last year.
 - New Stripe checkout, considering Europe's new SCA regulatory requirements
+- New Stripe Terminal, provide more unified global coverage for in store payments, demo with Stripe Press
+
 
