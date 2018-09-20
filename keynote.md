@@ -72,7 +72,12 @@ New interesting features:
   - Ability to have a single point of integration has just never existed
   - "omnichannel commerce experience"
   - Make payments the experience, not something we have to do as a side effect
-  
+
+## Patrick Closing Words
+
+- Billing, Connect, Terminal, Payments, Issuing, Sigma, Radar -> all backed by Stripe's Global Payments and Treasury Network
+- There are novel kinds of billing coming about: payments is part of the product experience.
+- Scaling products globally is what Stripe is committed to. "Infrastructure for Globalization"
   
   
 
