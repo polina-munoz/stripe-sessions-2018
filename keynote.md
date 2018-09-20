@@ -4,9 +4,9 @@
 - we're looking for product comments and suggestions
 - what problem's we'd like to see someone solve 
 
-Patrick Collison, Stripe CEO
+## Patrick Collison, Stripe CEO
 
-## Stripe 2018 year in review
+Stripe 2018 year in review
 
 Mission: grow the GDP of the internet.
 
@@ -30,7 +30,7 @@ New interesting features:
 - Radar + Radar for Fraud Teams
 - Global payments and treasury network 
 
-David Singleton, Head of Product and Engineering
+## David Singleton, Head of Product and Engineering
 
 - Billing, Connect, Payments, Sigma, Radar
 - Want to help accelerate the movement of money
