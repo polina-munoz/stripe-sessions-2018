@@ -15,5 +15,9 @@ Sessions covered:
 - 1:45 PM - 2:15PM, Treating payments as a product
 - 2:45 PM - 3:15 PM, Infra, primitives, and people: The three pillars of scaling engineering orgs effectively
 
+Sessions missing notes:
 
+- 1:00 PM - 1:30 PM, Practical applications of ML: Lessons from scaling Stripe Radar
+- 1:45 PM - 2:15PM, The Developer Coefficient: Why designing great developer experiences matters
+- 2:45 PM - 3:15 PM Driving growth with price experimentation
 
